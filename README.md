@@ -1,1 +1,1 @@
-# E-DEI
+# Dual-Exposure Imaging with Events
