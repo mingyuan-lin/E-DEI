@@ -1,0 +1,3 @@
+python test.py --dataset_path ../../datasets --dataset_name REDS --arch UNet_de_ca_denc_ddec --net_path /mnt/sda/lmy/documents/edei/methods/edei_code_github/run/exp_0/epoch_0_model.pth --exp_name exp_0_0
+
+# python test.py --dataset_path ../../datasets --dataset_name RLIED --arch UNet_de_ca_denc_ddec --net_path /mnt/sda/lmy/documents/edei/methods/edei_code_github/run/exp_1/epoch_0_model.pth --exp_name exp_1_0
