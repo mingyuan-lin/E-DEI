@@ -32,13 +32,14 @@ Hongyi Liu<sup>2</sup>
 3. Simulate short-exposure noisy images via `./datasets/darken.py`, simulate long-exposure blurry image via [RIFE](https://github.com/hzwer/Practical-RIFE).
 4. Make h5 files via `./datasets/file2h5.py`
 
-We provide one sample data in `./datasets/REDS/val/val_h5/000/00000003.h5`
+We provide several sample datas in [Google Drive](https://drive.google.com/drive/folders/1la5weO653jkFWeDWWFU132peoEQDDlmr?usp=sharing).
 
 ### PIED
 In our paper, we build a real-world dataset PIED which contains paired normal- and low-light images and real-world events. (Coming soon...)
 
 ## Quick start
 ### Test
+Download the weights file from [Google Drive](https://drive.google.com/drive/folders/1la5weO653jkFWeDWWFU132peoEQDDlmr?usp=sharing) and put it into the folder `./weights`.
 ```bash
 sh test.sh
 ```
